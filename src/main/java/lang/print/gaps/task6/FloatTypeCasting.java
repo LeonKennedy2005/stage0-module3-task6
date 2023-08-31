@@ -8,7 +8,7 @@ public class FloatTypeCasting {
     }
     public static void main(String[] args){
         FloatTypeCasting numberRounder = new FloatTypeCasting();
-        float numberToBeRounded = 28.8f;
+        float numberToBeRounded = 20.0f;
         numberRounder.roundNumber(numberToBeRounded);
 
     }
